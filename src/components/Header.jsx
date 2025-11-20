@@ -22,6 +22,7 @@ const Header = () => {
           <a href="#services" className="nav-link">서비스</a>
           <a href="#how-it-works" className="nav-link">작동 방식</a>
           <a href="#features" className="nav-link">주요 기능</a>
+          <a href="#pricing" className="nav-link">가격</a>
           <a href="#contact" className="nav-link">문의하기</a>
         </nav>
         <a href="#contact" className="cta-button">
